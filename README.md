@@ -57,5 +57,5 @@ Investigated food sales performance across regions and product categories using 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/athira-mohan/]) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/athira--mohan/)
 - 📬 Drop me a message if you're hiring for data projects, or just to talk data!
