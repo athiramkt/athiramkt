@@ -1,9 +1,10 @@
 
 # 👋 Hi, I'm Athira
 
-🎯 Marketing Specialist – Content and Digital, with a background in IT, now pivoting into **Data Analytics**.
-📚 Currently upskilling through projects in **R**, **SQL**, and data visualization tools.  
+🎯 Marketing Specialist – Content and Digital – with a domain experience in IT, now pivoting into **Data Analytics**.  
+📚 Currently upskilling through projects in **R**, **SQL**, and data visualization.  
 🔍 I love turning messy data into actionable insights and combining analytical thinking with creative marketing strategies.
+
 ---
 
 ## 📁 My Data Analysis Case Studies
