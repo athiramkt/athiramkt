@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Athira
 
-- I’m a Marketing Specialist with a focus on Content and Digital Marketing, backed by a background in IT. 
-- Currently, I’m transitioning into **Data Analytics** to strengthen my ability to make insight-driven decisions. I’m actively upskilling      through hands-on projects using **R**, **SQL**, and data visualization tools.
-- I enjoy turning complex, messy data into clear, actionable insights—blending analytical thinking with creative marketing strategies to       solve real-world problems.
+🎯 I'm a Marketing Specialist who loves working with content and digital campaigns, with a background in IT. Lately, I've been diving into **Data analytics** to get better at making decisions backed by real insights.  
+📚 Currently upskilling through projects in **R**, **SQL**, and data visualization tools.  
+🔍 I love turning messy data into actionable insights and combining analytical thinking with creative marketing strategies.
 
 ---
 
